@@ -33,7 +33,7 @@ div {
 
 nav {
   display: grid;
-  gap: 10%;
+  gap: 10px;
   grid-template-columns: auto auto auto auto auto;
 }
 
