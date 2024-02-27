@@ -10,3 +10,8 @@ h1, h2 {
   color: white;
   letter-spacing: 5px;
 }
+
+div {
+  background-color: white;
+  color: black;
+}
