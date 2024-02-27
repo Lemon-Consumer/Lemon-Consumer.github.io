@@ -5,6 +5,7 @@ body {
   text-align: center;
   font-family: "Open Sans", sans-serif;
   background: linear-gradient(0deg, #00f, #f00);
+  background-repeat: no-repeat;
 }
 
 h1, h2 {
