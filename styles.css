@@ -4,10 +4,10 @@ body {
   background-color: black;
 }
 
-h1 {
-  font-weight: 700;
+h1, h2 {
   font-family: "Lora";
   text-align: center;
   color: white;
   letter-spacing: 5px;
+  border: white 1px solid;
 }
