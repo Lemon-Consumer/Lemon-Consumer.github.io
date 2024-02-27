@@ -30,3 +30,9 @@ nav {
   grid-template-columns: auto auto auto auto auto;
   grid-template-rows: 20%;
 }
+
+nav a {
+  color: white;
+  background-color: #111111;
+  border: 5px black solid;
+}
