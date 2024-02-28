@@ -6,7 +6,7 @@ body {
   height: 100%;
   text-align: center;
   font-family: "Open Sans", sans-serif;
-  background: linear-gradient(0deg, #00F, #F00) fixed;  
+  background: linear-gradient(0deg, #FF0, #0FF) fixed;  
 }
 
 #title {
@@ -19,7 +19,7 @@ body {
 h1, h2 {
   font-family: "Lora", serif;
   letter-spacing: 5px;
-  color: white;
+  color: black;
 }
 
 div {
