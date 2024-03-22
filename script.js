@@ -1,5 +1,5 @@
-const turn;
+const off = document.querySelector("#off");
 
 const turnOff = () => {
-
+  
 }
