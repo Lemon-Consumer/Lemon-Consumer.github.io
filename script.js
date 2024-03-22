@@ -1,7 +1,7 @@
 const off = document.querySelector("#off");
 
 const turnOff = () => {
-  let text = document.querySelectorAll('p', 'li');
+  let text = document.querySelectorAll('p', 'li', 'h1');
   if (text.visibility === 'hidden') {
     text.visibility = 'visible';
   } else {
