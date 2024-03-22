@@ -40,7 +40,7 @@ nav {
   grid-template-columns: auto auto auto auto auto;
 }
 
-nav a {
+nav * {
   color: white;
   background-color: #111111;
   border: 5px black solid;
