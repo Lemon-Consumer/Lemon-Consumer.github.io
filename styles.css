@@ -27,16 +27,3 @@ h1, h2 {
   letter-spacing: 5px;
   color: black;
 }
-
-nav {
-  display: grid;
-  gap: 20px;
-  grid-template-columns: auto auto auto auto auto;
-}
-
-nav * {
-  color: white;
-  background-color: #111111;
-  font-size: 15px;
-  letter-spacing: 1px;
-}
