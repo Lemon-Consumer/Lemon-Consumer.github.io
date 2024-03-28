@@ -6,7 +6,7 @@ body {
   height: 100%;
   text-align: center;
   font-family: "Open Sans", sans-serif;
-  background: linear-gradient(0deg, #FF0, #0FF) fixed;  
+  background-color: #111155;  
 }
 
 #title {
@@ -22,26 +22,16 @@ h1, h2 {
   color: black;
 }
 
-div {
-  background-color: white;
-  color: black;
-  border: 5px solid black;
-  border-radius: 2px;
-  width: 75%;
-  margin-left: 12.5%;
-  margin-right: 12.5%;
-  margin-top: 2%;
-  margin-bottom: 2%;
-}
-
 nav {
   display: grid;
-  gap: 10px;
+  gap: 20px;
   grid-template-columns: auto auto auto auto auto;
 }
 
 nav * {
   color: white;
   background-color: #111111;
-  border: 5px black solid;
+  border: 5px white solid;
+  font-size: 15px;
+  letter-spacing: 1px;
 }
