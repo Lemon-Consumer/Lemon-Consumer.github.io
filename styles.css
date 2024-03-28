@@ -28,6 +28,11 @@ h1, h2 {
   color: black;
 }
 
+ul {
+  margin-left: 25%;
+  margin-right: auto;
+}
+
 li {
   text-align: left;
 }
